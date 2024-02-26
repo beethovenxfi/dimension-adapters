@@ -1,0 +1,138 @@
+// yarn test fees balancer
+🦙 Running BALANCER adapter 🦙
+_______________________________________
+Fees for 25/2/2024
+_______________________________________
+
+Version -> V1
+---------
+ETHEREUM 👇
+Backfill start time: 27/2/2020
+Timestamp: 1708905599 (2024-02-25T23:59:59.000Z)
+Total fees: 84.19 M
+└─ Methodology: All trading fees collected
+Daily fees: 3.58 k
+└─ Methodology: All trading fees collected
+Total user fees: 84.19 M
+└─ Methodology: Trading fees paid by users, ranging from 0.0001% and 10%
+Daily user fees: 3.58 k
+└─ Methodology: Trading fees paid by users, ranging from 0.0001% and 10%
+Total revenue: 0
+└─ Methodology: Balancer V1 protocol fees are set to 0%
+Daily revenue: 0
+└─ Methodology: Balancer V1 protocol fees are set to 0%
+Total protocol revenue: 0
+└─ Methodology: Balancer V1 protocol fees are set to 0%
+Daily protocol revenue: 0
+└─ Methodology: Balancer V1 protocol fees are set to 0%
+Total supply side revenue: 84.19 M
+└─ Methodology: Trading fees are distributed among LPs
+Daily supply side revenue: 3.58 k
+└─ Methodology: Trading fees are distributed among LPs
+
+
+Version -> V2
+---------
+ETHEREUM 👇
+Backfill start time: 23/4/2021
+Timestamp: 1708905599 (2024-02-25T23:59:59.000Z)
+Daily user fees: 37.49 k
+└─ Methodology: Trading fees paid by users, ranging from 0.0001% to 10%
+Daily fees: 74.99 k
+└─ Methodology: All trading fees collected (doesn't include withdrawal and flash loan fees)
+Daily revenue: 37.49 k
+└─ Methodology: Protocol revenue from all fees collected
+Daily protocol revenue: 37.49 k
+└─ Methodology: Set to 50% of collected fees by a governance vote
+Daily supply side revenue: 37.49 k
+└─ Methodology: A small percentage of the trade paid by traders to pool LPs, set by the pool creator or dynamically optimized by Gauntlet
+
+
+POLYGON 👇
+Backfill start time: 24/6/2021
+Timestamp: 1708905599 (2024-02-25T23:59:59.000Z)
+Daily user fees: 1.02 k
+└─ Methodology: Trading fees paid by users, ranging from 0.0001% to 10%
+Daily fees: 2.04 k
+└─ Methodology: All trading fees collected (doesn't include withdrawal and flash loan fees)
+Daily revenue: 1.02 k
+└─ Methodology: Protocol revenue from all fees collected
+Daily protocol revenue: 1.02 k
+└─ Methodology: Set to 50% of collected fees by a governance vote
+Daily supply side revenue: 1.02 k
+└─ Methodology: A small percentage of the trade paid by traders to pool LPs, set by the pool creator or dynamically optimized by Gauntlet
+
+
+ARBITRUM 👇
+Backfill start time: 31/8/2021
+Timestamp: 1708905599 (2024-02-25T23:59:59.000Z)
+Daily user fees: 11.55 k
+└─ Methodology: Trading fees paid by users, ranging from 0.0001% to 10%
+Daily fees: 23.09 k
+└─ Methodology: All trading fees collected (doesn't include withdrawal and flash loan fees)
+Daily revenue: 11.55 k
+└─ Methodology: Protocol revenue from all fees collected
+Daily protocol revenue: 11.55 k
+└─ Methodology: Set to 50% of collected fees by a governance vote
+Daily supply side revenue: 11.55 k
+└─ Methodology: A small percentage of the trade paid by traders to pool LPs, set by the pool creator or dynamically optimized by Gauntlet
+
+
+AVAX 👇
+Backfill start time: 25/2/2023
+Timestamp: 1708905599 (2024-02-25T23:59:59.000Z)
+Daily user fees: 769
+└─ Methodology: Trading fees paid by users, ranging from 0.0001% to 10%
+Daily fees: 1.54 k
+└─ Methodology: All trading fees collected (doesn't include withdrawal and flash loan fees)
+Daily revenue: 769
+└─ Methodology: Protocol revenue from all fees collected
+Daily protocol revenue: 769
+└─ Methodology: Set to 50% of collected fees by a governance vote
+Daily supply side revenue: 769
+└─ Methodology: A small percentage of the trade paid by traders to pool LPs, set by the pool creator or dynamically optimized by Gauntlet
+
+
+XDAI 👇
+Backfill start time: 10/1/2023
+Timestamp: 1708905599 (2024-02-25T23:59:59.000Z)
+Daily user fees: 2.58 k
+└─ Methodology: Trading fees paid by users, ranging from 0.0001% to 10%
+Daily fees: 5.15 k
+└─ Methodology: All trading fees collected (doesn't include withdrawal and flash loan fees)
+Daily revenue: 2.58 k
+└─ Methodology: Protocol revenue from all fees collected
+Daily protocol revenue: 2.58 k
+└─ Methodology: Set to 50% of collected fees by a governance vote
+Daily supply side revenue: 2.58 k
+└─ Methodology: A small percentage of the trade paid by traders to pool LPs, set by the pool creator or dynamically optimized by Gauntlet
+
+
+BASE 👇
+Backfill start time: 26/7/2023
+Timestamp: 1708905599 (2024-02-25T23:59:59.000Z)
+Daily user fees: 346
+└─ Methodology: Trading fees paid by users, ranging from 0.0001% to 10%
+Daily fees: 692
+└─ Methodology: All trading fees collected (doesn't include withdrawal and flash loan fees)
+Daily revenue: 346
+└─ Methodology: Protocol revenue from all fees collected
+Daily protocol revenue: 346
+└─ Methodology: Set to 50% of collected fees by a governance vote
+Daily supply side revenue: 346
+└─ Methodology: A small percentage of the trade paid by traders to pool LPs, set by the pool creator or dynamically optimized by Gauntlet
+
+
+POLYGON_ZKEVM 👇
+Backfill start time: 13/6/2023
+Timestamp: 1708905599 (2024-02-25T23:59:59.000Z)
+Daily user fees: 79
+└─ Methodology: Trading fees paid by users, ranging from 0.0001% to 10%
+Daily fees: 159
+└─ Methodology: All trading fees collected (doesn't include withdrawal and flash loan fees)
+Daily revenue: 79
+└─ Methodology: Protocol revenue from all fees collected
+Daily protocol revenue: 79
+└─ Methodology: Set to 50% of collected fees by a governance vote
+Daily supply side revenue: 79
+└─ Methodology: A small percentage of the trade paid by traders to pool LPs, set by the pool creator or dynamically optimized by Gauntlet
