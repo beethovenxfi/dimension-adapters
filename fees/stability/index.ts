@@ -66,6 +66,7 @@ async function getFeeEvents(vaults: string[], options: FetchOptions): Promise<Ba
 const adapter: SimpleAdapter = {
     version: 2,
     pullHourly: true,
+    deadFrom: '2026-01-01', // protocol deprecated
     adapter: {
         [CHAIN.SONIC]: {
             fetch: fetch,
